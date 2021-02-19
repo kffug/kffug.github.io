@@ -1,0 +1,19 @@
+{
+  "name": "kffug.github.io",
+  "version": "0.0.1",
+  "description": "전국 파이어폭스 부흥위원회",
+  "main": "index.js",
+  "authors": {
+    "name": "Jaeyeol Lee",
+    "email": "kodingwarrior@kakao.com"
+  },
+  "repository": "git@github.com:kffug/kffug.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
