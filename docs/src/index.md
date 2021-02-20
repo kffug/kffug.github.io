@@ -8,7 +8,7 @@ footer: Made by Jaeyeol Lee with ❤️
 ---
 
 <div style="display: flex; justify-content: center;">
-  <iframe src="https://discordapp.com/widget?id=773735664704421898&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  <iframe src="https://discordapp.com/widget?id=811024031905742848&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 </div>
 
 <div class="features">
