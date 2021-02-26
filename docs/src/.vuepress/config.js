@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: '전국 파이어폭스 부흥위원회',
+  title: '전국 파이어폭스 진흥위원회',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
