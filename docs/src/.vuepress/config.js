@@ -42,6 +42,10 @@ module.exports = {
         link: '/life-hack/'
       },
       {
+        text: 'Rules',
+        link: '/rules/'
+      },
+      {
         text: 'Sitemap',
         link: '/sitemap/'
       }
